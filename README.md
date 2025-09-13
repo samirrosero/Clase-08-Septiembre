@@ -15,5 +15,5 @@
 - Prueba Ciclista
 
 
-![Ver foto](file:///C:/Users/samir/OneDrive/Escritorio/OneDrive/Im%C3%A1genes/133687632127443581.jpg "Si se puede") 
+![Ver foto](Imágenes/133687632127443581.jpg "Si se puede") 
 
