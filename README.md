@@ -15,5 +15,5 @@
 - Prueba Ciclista
 
 
-![Ver foto](Imágenes/133687632127443581.jpg "Si se puede") 
+![EjercicioCiclista](133687632127443581.jpg) 
 
